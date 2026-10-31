@@ -1,0 +1,28 @@
+{
+  "name": "cartas-contra-a-humanidade",
+  "version": "1.0.0",
+  "description": "Cartas Contra a Humanidade em Português para LAN / Celular",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"blue,magenta\" \"node -e \\\"process.env.NODE_ENV='development'; process.env.PORT='3001'; require('./server/index')\\\"\" \"npm.cmd run dev --prefix client\"",
+    "start": "node server.js",
+    "build:cards": "node server/buildCards.js",
+    "build:client": "npm.cmd run build --prefix client",
+    "build": "npm.cmd run build --prefix client",
+    "test": "node server/testParser.js && node server/testGameFlow.js",
+    "test:parser": "node server/testParser.js",
+    "test:game": "node server/testGameFlow.js",
+    "host": "npm.cmd start --prefix host-app",
+    "host:android": "npm.cmd run android --prefix host-app",
+    "host:web": "npm.cmd run web --prefix host-app",
+    "host:apk": "npm.cmd run build:apk --prefix host-app"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

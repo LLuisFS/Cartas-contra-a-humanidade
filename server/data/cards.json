@@ -1,0 +1,2896 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-28T04:18:57.870Z",
+  "counts": {
+    "white": 491,
+    "black": 115
+  },
+  "whiteCards": [
+    {
+      "id": 1,
+      "text": "Abortos com cabide"
+    },
+    {
+      "id": 2,
+      "text": "Carne humana"
+    },
+    {
+      "id": 3,
+      "text": "Autocanibalismo"
+    },
+    {
+      "id": 4,
+      "text": "Mãos de Jazz vigorosas"
+    },
+    {
+      "id": 5,
+      "text": "Passaros que não voam"
+    },
+    {
+      "id": 6,
+      "text": "Fotos de peitos"
+    },
+    {
+      "id": 7,
+      "text": "A coisa certa a se fazer"
+    },
+    {
+      "id": 8,
+      "text": "Acidentes de caça"
+    },
+    {
+      "id": 9,
+      "text": "Um camelo cartunesco apreciando o suave e refrescante gosto de um cigarro"
+    },
+    {
+      "id": 10,
+      "text": "A violação dos nossos direitos humanos fundamentais"
+    },
+    {
+      "id": 11,
+      "text": "Viagra"
+    },
+    {
+      "id": 12,
+      "text": "Autoaversão"
+    },
+    {
+      "id": 13,
+      "text": "Um abdomem espetacular"
+    },
+    {
+      "id": 14,
+      "text": "Um policial honesto com nada a perder"
+    },
+    {
+      "id": 15,
+      "text": "Abstinencia"
+    },
+    {
+      "id": 16,
+      "text": "Um café da manhã balanceado"
+    },
+    {
+      "id": 17,
+      "text": "Red Bull"
+    },
+    {
+      "id": 18,
+      "text": "O ato de esconder uma ereção"
+    },
+    {
+      "id": 19,
+      "text": "Sedativos"
+    },
+    {
+      "id": 20,
+      "text": "Faustão convulsivamente vomitando enquanto uma ninhada de aranhas-caranguejo eclodem em seu cérebro e irrompem de seus ductos lacrimais"
+    },
+    {
+      "id": 21,
+      "text": "O ato de tuitar"
+    },
+    {
+      "id": 22,
+      "text": "O Big Bang"
+    },
+    {
+      "id": 23,
+      "text": "Pessoas com membros amputados"
+    },
+    {
+      "id": 24,
+      "text": "Zumbi dos Palmares"
+    },
+    {
+      "id": 25,
+      "text": "Ex-presidente Lula"
+    },
+    {
+      "id": 26,
+      "text": "Marginalizado"
+    },
+    {
+      "id": 27,
+      "text": "Smegma"
+    },
+    {
+      "id": 28,
+      "text": "O ato de botar um ovo"
+    },
+    {
+      "id": 29,
+      "text": "Carinho"
+    },
+    {
+      "id": 30,
+      "text": "Médici costurando casaquinhos de lã para cães de rua"
+    },
+    {
+      "id": 31,
+      "text": "O papa"
+    },
+    {
+      "id": 32,
+      "text": "Um cu alvejado"
+    },
+    {
+      "id": 33,
+      "text": "Carne de cavalo"
+    },
+    {
+      "id": 34,
+      "text": "Piercings genitais"
+    },
+    {
+      "id": 35,
+      "text": "Dedadas"
+    },
+    {
+      "id": 36,
+      "text": "Asiáticos idosos"
+    },
+    {
+      "id": 37,
+      "text": "Perigo estranho"
+    },
+    {
+      "id": 38,
+      "text": "O próprio medo"
+    },
+    {
+      "id": 39,
+      "text": "Ciência"
+    },
+    {
+      "id": 40,
+      "text": "Cura Gay"
+    },
+    {
+      "id": 41,
+      "text": "Patinação de casais do mesmo sexo"
+    },
+    {
+      "id": 42,
+      "text": "Os terroristas"
+    },
+    {
+      "id": 43,
+      "text": "Sexo com ela"
+    },
+    {
+      "id": 44,
+      "text": "Pornochanchada"
+    },
+    {
+      "id": 45,
+      "text": "Bulimia"
+    },
+    {
+      "id": 46,
+      "text": "Apagamento de etnias"
+    },
+    {
+      "id": 47,
+      "text": "Trapaça nas paraolimpíadas"
+    },
+    {
+      "id": 48,
+      "text": "Restart"
+    },
+    {
+      "id": 49,
+      "text": "Heteronormatividade"
+    },
+    {
+      "id": 50,
+      "text": "Regina Casé"
+    },
+    {
+      "id": 51,
+      "text": "Biquinho"
+    },
+    {
+      "id": 52,
+      "text": "Motosserras como mãos"
+    },
+    {
+      "id": 53,
+      "text": "Placenta"
+    },
+    {
+      "id": 54,
+      "text": "Os muito deficientes"
+    },
+    {
+      "id": 55,
+      "text": "Antônio Fagundes voando num boi feito de raios"
+    },
+    {
+      "id": 56,
+      "text": "Inês Brasil"
+    },
+    {
+      "id": 57,
+      "text": "FADAS !"
+    },
+    {
+      "id": 58,
+      "text": "Lobotomia com picador de gelo"
+    },
+    {
+      "id": 59,
+      "text": "Thais Araújo"
+    },
+    {
+      "id": 60,
+      "text": "Injeções de hormônios"
+    },
+    {
+      "id": 61,
+      "text": "Um Urubu com chapéu de palha"
+    },
+    {
+      "id": 62,
+      "text": "Prepúcio"
+    },
+    {
+      "id": 63,
+      "text": "Morte"
+    },
+    {
+      "id": 64,
+      "text": "Dublês"
+    },
+    {
+      "id": 65,
+      "text": "A mão invisível"
+    },
+    {
+      "id": 66,
+      "text": "Plugs anais"
+    },
+    {
+      "id": 67,
+      "text": "Um chapéu muito maneiro"
+    },
+    {
+      "id": 68,
+      "text": "Enchentes"
+    },
+    {
+      "id": 69,
+      "text": "Camisinhas saborizadas"
+    },
+    {
+      "id": 70,
+      "text": "Morte por disenteria"
+    },
+    {
+      "id": 71,
+      "text": "Lutas de travesseiros sexy"
+    },
+    {
+      "id": 72,
+      "text": "Tratado de Tordesilhas"
+    },
+    {
+      "id": 73,
+      "text": "Uma punheta triste"
+    },
+    {
+      "id": 74,
+      "text": "Homens"
+    },
+    {
+      "id": 75,
+      "text": "Exclusão social"
+    },
+    {
+      "id": 76,
+      "text": "Pitty"
+    },
+    {
+      "id": 77,
+      "text": "Orfãos apaixonantes"
+    },
+    {
+      "id": 78,
+      "text": "Surf"
+    },
+    {
+      "id": 79,
+      "text": "O clitóris"
+    },
+    {
+      "id": 80,
+      "text": "Cangaceiros"
+    },
+    {
+      "id": 81,
+      "text": "Amigos que comem o lanche todo"
+    },
+    {
+      "id": 82,
+      "text": "O metrô"
+    },
+    {
+      "id": 83,
+      "text": "Fingir que se importa"
+    },
+    {
+      "id": 84,
+      "text": "Ataques de dinossauros"
+    },
+    {
+      "id": 85,
+      "text": "Um micropênis"
+    },
+    {
+      "id": 86,
+      "text": "Uma maldicao indígena"
+    },
+    {
+      "id": 87,
+      "text": "Agricultura"
+    },
+    {
+      "id": 88,
+      "text": "Jóias"
+    },
+    {
+      "id": 89,
+      "text": "Uma coçada clandestina na bunda"
+    },
+    {
+      "id": 90,
+      "text": "O sul"
+    },
+    {
+      "id": 91,
+      "text": "Cheirar cola"
+    },
+    {
+      "id": 92,
+      "text": "Contatinhos"
+    },
+    {
+      "id": 93,
+      "text": "Meus quadris"
+    },
+    {
+      "id": 94,
+      "text": "Gansos"
+    },
+    {
+      "id": 95,
+      "text": "Babaquice com crianças"
+    },
+    {
+      "id": 96,
+      "text": "Estraga prazeres"
+    },
+    {
+      "id": 97,
+      "text": "Luz do sol e arco-iris"
+    },
+    {
+      "id": 98,
+      "text": "PARA NOSSA ALEGRIA !"
+    },
+    {
+      "id": 99,
+      "text": "Destruicao mutuamente assegurada"
+    },
+    {
+      "id": 100,
+      "text": "Os pelos do peito de Tony Ramos"
+    },
+    {
+      "id": 101,
+      "text": "Sexting"
+    },
+    {
+      "id": 102,
+      "text": "Complexo de Edipo"
+    },
+    {
+      "id": 103,
+      "text": "AAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "id": 104,
+      "text": "Um festival de salsicha"
+    },
+    {
+      "id": 105,
+      "text": "Roberto Carlos"
+    },
+    {
+      "id": 106,
+      "text": "A Cuca"
+    },
+    {
+      "id": 107,
+      "text": "Cavalheirismo"
+    },
+    {
+      "id": 108,
+      "text": "Compartilhar de seringas"
+    },
+    {
+      "id": 109,
+      "text": "Riqueza"
+    },
+    {
+      "id": 110,
+      "text": "Tapado"
+    },
+    {
+      "id": 111,
+      "text": "O Leão do Proerd"
+    },
+    {
+      "id": 112,
+      "text": "Combustão espontânea"
+    },
+    {
+      "id": 113,
+      "text": "Faculdade"
+    },
+    {
+      "id": 114,
+      "text": "Necrofilia"
+    },
+    {
+      "id": 115,
+      "text": "A seleção chinesa de ginástica"
+    },
+    {
+      "id": 116,
+      "text": "Aquecimento global"
+    },
+    {
+      "id": 117,
+      "text": "Peidar e sair de fininho"
+    },
+    {
+      "id": 118,
+      "text": "O Mau correndo pelos encanamentos da Assembléia de Deus"
+    },
+    {
+      "id": 119,
+      "text": "Um galo com papete"
+    },
+    {
+      "id": 120,
+      "text": "Inveja peniana"
+    },
+    {
+      "id": 121,
+      "text": "Liberdade pessoal"
+    },
+    {
+      "id": 122,
+      "text": "Gente branca"
+    },
+    {
+      "id": 123,
+      "text": "Eduardo Cunha"
+    },
+    {
+      "id": 124,
+      "text": "Um voicemail bizarro"
+    },
+    {
+      "id": 125,
+      "text": "Fermento"
+    },
+    {
+      "id": 126,
+      "text": "Seleção natural"
+    },
+    {
+      "id": 127,
+      "text": "Masturbação"
+    },
+    {
+      "id": 128,
+      "text": "Bolinhos Bauducco"
+    },
+    {
+      "id": 129,
+      "text": "Festa junina"
+    },
+    {
+      "id": 130,
+      "text": "Polegares opositores"
+    },
+    {
+      "id": 131,
+      "text": "Um capuccino grande, sem açúcar, gelado e com caramelo de soja"
+    },
+    {
+      "id": 132,
+      "text": "Sujar-se"
+    },
+    {
+      "id": 133,
+      "text": "Uma mulher negra audaciosa"
+    },
+    {
+      "id": 134,
+      "text": "Lontras com meias de bolinhas e nariz de palhaço"
+    },
+    {
+      "id": 135,
+      "text": "O ensino de emoções a um robô"
+    },
+    {
+      "id": 136,
+      "text": "A Rita Lee vestida de banana"
+    },
+    {
+      "id": 137,
+      "text": "Um tiroteio"
+    },
+    {
+      "id": 138,
+      "text": "Chicoteio"
+    },
+    {
+      "id": 139,
+      "text": "Sexo de pandas"
+    },
+    {
+      "id": 140,
+      "text": "Catapultas"
+    },
+    {
+      "id": 141,
+      "text": "Lázaro Ramos"
+    },
+    {
+      "id": 142,
+      "text": "O pênis do Alexandre Pires"
+    },
+    {
+      "id": 143,
+      "text": "32 cm"
+    },
+    {
+      "id": 144,
+      "text": "Minas terrestres"
+    },
+    {
+      "id": 145,
+      "text": "Um mar de problemas"
+    },
+    {
+      "id": 146,
+      "text": "Acarajé no café da manhã"
+    },
+    {
+      "id": 147,
+      "text": "Nazaré Tedesco segurando uma tesoura"
+    },
+    {
+      "id": 148,
+      "text": "Fricção"
+    },
+    {
+      "id": 149,
+      "text": "Bolas"
+    },
+    {
+      "id": 150,
+      "text": "AIDS"
+    },
+    {
+      "id": 151,
+      "text": "O KKK"
+    },
+    {
+      "id": 152,
+      "text": "Pudim"
+    },
+    {
+      "id": 153,
+      "text": "Hitler"
+    },
+    {
+      "id": 154,
+      "text": "É o Tchan"
+    },
+    {
+      "id": 155,
+      "text": "Gandhi"
+    },
+    {
+      "id": 156,
+      "text": "Paralamas do Sucesso"
+    },
+    {
+      "id": 157,
+      "text": "Preadolescentes"
+    },
+    {
+      "id": 158,
+      "text": "A minoria simbólica"
+    },
+    {
+      "id": 159,
+      "text": "Amigos com beneficios"
+    },
+    {
+      "id": 160,
+      "text": "Presentes"
+    },
+    {
+      "id": 161,
+      "text": "Estupro coletivo"
+    },
+    {
+      "id": 162,
+      "text": "Professores substitutos"
+    },
+    {
+      "id": 163,
+      "text": "Treta"
+    },
+    {
+      "id": 164,
+      "text": "Uma detonacao termonuclear"
+    },
+    {
+      "id": 165,
+      "text": "Sono durante uma aula chata"
+    },
+    {
+      "id": 166,
+      "text": "#EuEscolhiEsperar"
+    },
+    {
+      "id": 167,
+      "text": "Um cavalinho"
+    },
+    {
+      "id": 168,
+      "text": "Vergonha na cara"
+    },
+    {
+      "id": 169,
+      "text": "Cáries dentais"
+    },
+    {
+      "id": 170,
+      "text": "Pastel de queijo e caldo de cana"
+    },
+    {
+      "id": 171,
+      "text": "Cheiro de gente velha"
+    },
+    {
+      "id": 172,
+      "text": "Lampião"
+    },
+    {
+      "id": 173,
+      "text": "Cozinha mexicana autentica"
+    },
+    {
+      "id": 174,
+      "text": "Pirulitos Gigantes"
+    },
+    {
+      "id": 175,
+      "text": "Louro José"
+    },
+    {
+      "id": 176,
+      "text": "Palmirinha vestida de paquita"
+    },
+    {
+      "id": 177,
+      "text": "Mulheres fortes"
+    },
+    {
+      "id": 178,
+      "text": "Intervenção Militar"
+    },
+    {
+      "id": 179,
+      "text": "Topless"
+    },
+    {
+      "id": 180,
+      "text": "Meritocracia"
+    },
+    {
+      "id": 181,
+      "text": "Bacteria comedora de cérebros"
+    },
+    {
+      "id": 182,
+      "text": "Abuso infantil"
+    },
+    {
+      "id": 183,
+      "text": "Um freezer cheio de órgãos"
+    },
+    {
+      "id": 184,
+      "text": "Um momento de silêncio"
+    },
+    {
+      "id": 185,
+      "text": "Sandy e Junior"
+    },
+    {
+      "id": 186,
+      "text": "Sonhos eróticos com o Abaporu"
+    },
+    {
+      "id": 187,
+      "text": "Robocop"
+    },
+    {
+      "id": 188,
+      "text": "Aquele teletubbie gay"
+    },
+    {
+      "id": 189,
+      "text": "Doce, doce vinganca"
+    },
+    {
+      "id": 190,
+      "text": "Banquete chique"
+    },
+    {
+      "id": 191,
+      "text": "Uma colonoscopia com suas próprias fezes todos os dias"
+    },
+    {
+      "id": 192,
+      "text": "O chupacu"
+    },
+    {
+      "id": 193,
+      "text": "Fraternidades judias"
+    },
+    {
+      "id": 194,
+      "text": "Roupa intima comestivel"
+    },
+    {
+      "id": 195,
+      "text": "Gente pobre"
+    },
+    {
+      "id": 196,
+      "text": "Rodízio de pizza por dez reais"
+    },
+    {
+      "id": 197,
+      "text": "Anitta aos 65 anos"
+    },
+    {
+      "id": 198,
+      "text": "Aquela coisa que eletrocutou seu abdomem"
+    },
+    {
+      "id": 199,
+      "text": "A insensatez humana"
+    },
+    {
+      "id": 200,
+      "text": "Bosta ardente"
+    },
+    {
+      "id": 201,
+      "text": "Viados"
+    },
+    {
+      "id": 202,
+      "text": "Um assassinato muito cruel"
+    },
+    {
+      "id": 203,
+      "text": "Tempo pra mim"
+    },
+    {
+      "id": 204,
+      "text": "A morte inevitavel do universo"
+    },
+    {
+      "id": 205,
+      "text": "Emissões noturnas"
+    },
+    {
+      "id": 206,
+      "text": "Problemas com pai"
+    },
+    {
+      "id": 207,
+      "text": "Os médicos cubanos"
+    },
+    {
+      "id": 208,
+      "text": "Bruna Marquezine"
+    },
+    {
+      "id": 209,
+      "text": "Sexo no banheiro do Mc Donalds"
+    },
+    {
+      "id": 210,
+      "text": "Laminas de mamilos"
+    },
+    {
+      "id": 211,
+      "text": "Calças sem bunda"
+    },
+    {
+      "id": 212,
+      "text": "Nudez frontal completa"
+    },
+    {
+      "id": 213,
+      "text": "Nikolas Ferreira"
+    },
+    {
+      "id": 214,
+      "text": "Passiva-agressividade"
+    },
+    {
+      "id": 215,
+      "text": "Dilma Rousseff"
+    },
+    {
+      "id": 216,
+      "text": "Atropelamento"
+    },
+    {
+      "id": 217,
+      "text": "Menstruação"
+    },
+    {
+      "id": 218,
+      "text": "Coito interrompido"
+    },
+    {
+      "id": 219,
+      "text": "Garotas em clínicas de aborto"
+    },
+    {
+      "id": 220,
+      "text": "Ditadura Gay"
+    },
+    {
+      "id": 221,
+      "text": "A Biblia Sagrada"
+    },
+    {
+      "id": 222,
+      "text": "Paz mundial"
+    },
+    {
+      "id": 223,
+      "text": "Morte aos seus inimigos esmagados por um candelabro"
+    },
+    {
+      "id": 224,
+      "text": "Torção testicular"
+    },
+    {
+      "id": 225,
+      "text": "O leiteiro"
+    },
+    {
+      "id": 226,
+      "text": "Um paradoxo temporal"
+    },
+    {
+      "id": 227,
+      "text": "Hot Pockets"
+    },
+    {
+      "id": 228,
+      "text": "Caras que não ligam"
+    },
+    {
+      "id": 229,
+      "text": "Churrasco de mico-leão-dourado"
+    },
+    {
+      "id": 230,
+      "text": "Darth Vader"
+    },
+    {
+      "id": 231,
+      "text": "Conexão humana genuína"
+    },
+    {
+      "id": 232,
+      "text": "Sem-Teto"
+    },
+    {
+      "id": 233,
+      "text": "O cu imaculado de Eliana"
+    },
+    {
+      "id": 234,
+      "text": "Gloryholes"
+    },
+    {
+      "id": 235,
+      "text": "Solos de saxofone"
+    },
+    {
+      "id": 236,
+      "text": "A arte da sedução"
+    },
+    {
+      "id": 237,
+      "text": "Deus"
+    },
+    {
+      "id": 238,
+      "text": "Design inteligente"
+    },
+    {
+      "id": 239,
+      "text": "Um sistema de classes impregnado"
+    },
+    {
+      "id": 240,
+      "text": "Fogo amigo"
+    },
+    {
+      "id": 241,
+      "text": "Emoções"
+    },
+    {
+      "id": 242,
+      "text": "Eugenia"
+    },
+    {
+      "id": 243,
+      "text": "Uma boa cheirada"
+    },
+    {
+      "id": 244,
+      "text": "Uma bola de cera de ouvido, semen e pedaços de unha"
+    },
+    {
+      "id": 245,
+      "text": "Um tamagotchi rejeitado"
+    },
+    {
+      "id": 246,
+      "text": "Estupidez imensurável"
+    },
+    {
+      "id": 247,
+      "text": "Migalhas espalhadas por todo o maldito tapete"
+    },
+    {
+      "id": 248,
+      "text": "O coracao de uma crianca"
+    },
+    {
+      "id": 249,
+      "text": "Sedução"
+    },
+    {
+      "id": 250,
+      "text": "O gosto refrescante e geladinho do Guaraná Antartica"
+    },
+    {
+      "id": 251,
+      "text": "O cu delicioso do Caio Castro"
+    },
+    {
+      "id": 252,
+      "text": "Uma surpresa salgada"
+    },
+    {
+      "id": 253,
+      "text": "Piadas sobre o Holocausto em uma hora ruim"
+    },
+    {
+      "id": 254,
+      "text": "Minha alma"
+    },
+    {
+      "id": 255,
+      "text": "Minha vida sexual"
+    },
+    {
+      "id": 256,
+      "text": "Ovos de pterodactilos"
+    },
+    {
+      "id": 257,
+      "text": "Seu Coiso, Coisa e Coisinha (ilha Ra-Tim-Bum)"
+    },
+    {
+      "id": 258,
+      "text": "Qualquer coisa que saia da boca de Rachel Sheherazade"
+    },
+    {
+      "id": 259,
+      "text": "72 virgens"
+    },
+    {
+      "id": 260,
+      "text": "Epidemia de varíola"
+    },
+    {
+      "id": 261,
+      "text": "Pedofilos"
+    },
+    {
+      "id": 262,
+      "text": "Um tapa merecido"
+    },
+    {
+      "id": 263,
+      "text": "Uma tartaruga mordendo a ponta do seu penis"
+    },
+    {
+      "id": 264,
+      "text": "Uma vaca louca"
+    },
+    {
+      "id": 265,
+      "text": "A mãe dele de calcinha de crochê"
+    },
+    {
+      "id": 266,
+      "text": "Minha colecao de objetos sexuais high-tech"
+    },
+    {
+      "id": 267,
+      "text": "Um homem de meia idade de patins"
+    },
+    {
+      "id": 268,
+      "text": "O sangue de Cristo"
+    },
+    {
+      "id": 269,
+      "text": "Preliminares meia-boca"
+    },
+    {
+      "id": 270,
+      "text": "Amostras grátis"
+    },
+    {
+      "id": 271,
+      "text": "Babacas em seus Iphones"
+    },
+    {
+      "id": 272,
+      "text": "Stalin"
+    },
+    {
+      "id": 273,
+      "text": "12 GB de gifs da Kid-Bengala em HD"
+    },
+    {
+      "id": 274,
+      "text": "Coxinhas"
+    },
+    {
+      "id": 275,
+      "text": "O teto de vidro"
+    },
+    {
+      "id": 276,
+      "text": "Uma boca suja"
+    },
+    {
+      "id": 277,
+      "text": "Diversão em uma piscina de lágrimas de crianças"
+    },
+    {
+      "id": 278,
+      "text": "Fritação"
+    },
+    {
+      "id": 279,
+      "text": "Os deformados"
+    },
+    {
+      "id": 280,
+      "text": "Os braços de Marcela Temer"
+    },
+    {
+      "id": 281,
+      "text": "Explosões"
+    },
+    {
+      "id": 282,
+      "text": "Dandara dos Palmares"
+    },
+    {
+      "id": 283,
+      "text": "Michel Temer"
+    },
+    {
+      "id": 284,
+      "text": "Bolsonaro"
+    },
+    {
+      "id": 285,
+      "text": "Atitude"
+    },
+    {
+      "id": 286,
+      "text": "Essa resposta é pós-moderna"
+    },
+    {
+      "id": 287,
+      "text": "Capitalismo"
+    },
+    {
+      "id": 288,
+      "text": "Morte por falta de ar perto do nariz do Luciano Huck"
+    },
+    {
+      "id": 289,
+      "text": "Exercícios de construção de times"
+    },
+    {
+      "id": 290,
+      "text": "Repressão"
+    },
+    {
+      "id": 291,
+      "text": "Comunismo"
+    },
+    {
+      "id": 292,
+      "text": "Uma bolsa de feijões mágicos"
+    },
+    {
+      "id": 293,
+      "text": "Uma espanhola assimétrica"
+    },
+    {
+      "id": 294,
+      "text": "Pais mortos"
+    },
+    {
+      "id": 295,
+      "text": "Ridicularização em público"
+    },
+    {
+      "id": 296,
+      "text": "Exibição de acasalamento"
+    },
+    {
+      "id": 297,
+      "text": "Um mímico tendo um AVC"
+    },
+    {
+      "id": 298,
+      "text": "Stephen Hawking falando safadezas"
+    },
+    {
+      "id": 299,
+      "text": "Criancas africanas"
+    },
+    {
+      "id": 300,
+      "text": "Herpes bucal"
+    },
+    {
+      "id": 301,
+      "text": "Uma vovó pelada"
+    },
+    {
+      "id": 302,
+      "text": "Destruição da evidência"
+    },
+    {
+      "id": 303,
+      "text": "Putas"
+    },
+    {
+      "id": 304,
+      "text": "Italianos"
+    },
+    {
+      "id": 305,
+      "text": "Um milhão de reais em barras de ouro, que valem mais do que dinheiro"
+    },
+    {
+      "id": 306,
+      "text": "Um moinho de vento cheio de cadáveres"
+    },
+    {
+      "id": 307,
+      "text": "Sua alteza, rainha Elizabeth II"
+    },
+    {
+      "id": 308,
+      "text": "Movimentos LGBTQIAPN+"
+    },
+    {
+      "id": 309,
+      "text": "Uma corrente interminável de diarréia"
+    },
+    {
+      "id": 310,
+      "text": "Problemas de classe média"
+    },
+    {
+      "id": 311,
+      "text": "Torrada"
+    },
+    {
+      "id": 312,
+      "text": "Uma camisinha defeituosa"
+    },
+    {
+      "id": 313,
+      "text": "Doação de pedra do rim"
+    },
+    {
+      "id": 314,
+      "text": "Lepra"
+    },
+    {
+      "id": 315,
+      "text": "Um tumor cerebral"
+    },
+    {
+      "id": 316,
+      "text": "Abelhas ?"
+    },
+    {
+      "id": 317,
+      "text": "Cachorrinhos !"
+    },
+    {
+      "id": 318,
+      "text": "Brigas de galo"
+    },
+    {
+      "id": 319,
+      "text": "Sangue, fadiga, lágrimas e suor"
+    },
+    {
+      "id": 320,
+      "text": "Esperanca"
+    },
+    {
+      "id": 321,
+      "text": "Cu no lugar de olhos"
+    },
+    {
+      "id": 322,
+      "text": "Incesto"
+    },
+    {
+      "id": 323,
+      "text": "Roubo de túmulo"
+    },
+    {
+      "id": 324,
+      "text": "Asiaticos que não são bons com matematica"
+    },
+    {
+      "id": 325,
+      "text": "Alcoolismo"
+    },
+    {
+      "id": 326,
+      "text": "Disfunção erétil"
+    },
+    {
+      "id": 327,
+      "text": "Felipe Dylon"
+    },
+    {
+      "id": 328,
+      "text": "Os Judeus"
+    },
+    {
+      "id": 329,
+      "text": "Bestialidade"
+    },
+    {
+      "id": 330,
+      "text": "Crushes"
+    },
+    {
+      "id": 331,
+      "text": "Testemulhas de Jeová"
+    },
+    {
+      "id": 332,
+      "text": "Crianças com câncer de bunda"
+    },
+    {
+      "id": 333,
+      "text": "Três pintos ao mesmo tempo"
+    },
+    {
+      "id": 334,
+      "text": "Auschwitz"
+    },
+    {
+      "id": 335,
+      "text": "Sopa quente demais"
+    },
+    {
+      "id": 336,
+      "text": "Yodeleio inapropriado"
+    },
+    {
+      "id": 337,
+      "text": "Bomba de hormônios"
+    },
+    {
+      "id": 338,
+      "text": "Uma AK-47"
+    },
+    {
+      "id": 339,
+      "text": "Uma cara feia"
+    },
+    {
+      "id": 340,
+      "text": "Uma vagina com joias"
+    },
+    {
+      "id": 341,
+      "text": "A ira de Vladimir Putin"
+    },
+    {
+      "id": 342,
+      "text": "O próprio demônio"
+    },
+    {
+      "id": 343,
+      "text": "Meu status de relacionamento"
+    },
+    {
+      "id": 344,
+      "text": "Uma maldita paz e quietude"
+    },
+    {
+      "id": 345,
+      "text": "Fabulosidade"
+    },
+    {
+      "id": 346,
+      "text": "Lactacao"
+    },
+    {
+      "id": 347,
+      "text": "Sexo oral não-reciproco"
+    },
+    {
+      "id": 348,
+      "text": "Minha ex"
+    },
+    {
+      "id": 349,
+      "text": "Meus genitais"
+    },
+    {
+      "id": 350,
+      "text": "Uma vagina cibernética que faz torrada e tem wifi"
+    },
+    {
+      "id": 351,
+      "text": "Orgasmo feminino"
+    },
+    {
+      "id": 352,
+      "text": "Um irlandês sóbrio que não se importa com batatas"
+    },
+    {
+      "id": 353,
+      "text": "Reabilitação por ordem judicial"
+    },
+    {
+      "id": 354,
+      "text": "O parto do anticristo"
+    },
+    {
+      "id": 355,
+      "text": "Os gays"
+    },
+    {
+      "id": 356,
+      "text": "Ecstasy"
+    },
+    {
+      "id": 357,
+      "text": "Estrogenio"
+    },
+    {
+      "id": 358,
+      "text": "Brutalidade policial"
+    },
+    {
+      "id": 359,
+      "text": "Travestis passaveis"
+    },
+    {
+      "id": 360,
+      "text": "Pessoas sem pele"
+    },
+    {
+      "id": 361,
+      "text": "Um homem quase gozando"
+    },
+    {
+      "id": 362,
+      "text": "Dedos em formato de penis"
+    },
+    {
+      "id": 363,
+      "text": "Racismo"
+    },
+    {
+      "id": 364,
+      "text": "Racismo reverso"
+    },
+    {
+      "id": 365,
+      "text": "Sexo surpresa !"
+    },
+    {
+      "id": 366,
+      "text": "Sutilezas classistas"
+    },
+    {
+      "id": 367,
+      "text": "Os tweets do Neymar Jr."
+    },
+    {
+      "id": 368,
+      "text": "Musicas atuais"
+    },
+    {
+      "id": 369,
+      "text": "Seu irmão estranho"
+    },
+    {
+      "id": 370,
+      "text": "Um culto satanico"
+    },
+    {
+      "id": 371,
+      "text": "Calças extremamente apertadas"
+    },
+    {
+      "id": 372,
+      "text": "Fraldas sujas"
+    },
+    {
+      "id": 373,
+      "text": "Casamento, procriação, seguida de fotos, aposentadoria e morte"
+    },
+    {
+      "id": 374,
+      "text": "Pornô de tentaculos"
+    },
+    {
+      "id": 375,
+      "text": "O boi tatá"
+    },
+    {
+      "id": 376,
+      "text": "Muito gel de cabelo"
+    },
+    {
+      "id": 377,
+      "text": "Células-tronco embrionárias"
+    },
+    {
+      "id": 378,
+      "text": "Forças misteriosas fora do nosso controle"
+    },
+    {
+      "id": 379,
+      "text": "Ira menstrual"
+    },
+    {
+      "id": 380,
+      "text": "Os ritmos africanos"
+    },
+    {
+      "id": 381,
+      "text": "Acidentes horríveis de depilação a laser"
+    },
+    {
+      "id": 382,
+      "text": "Objetos brilhantes"
+    },
+    {
+      "id": 383,
+      "text": "Golden showers"
+    },
+    {
+      "id": 384,
+      "text": "Meus demônios interiores"
+    },
+    {
+      "id": 385,
+      "text": "Roubo de doces de crianças órfãs"
+    },
+    {
+      "id": 386,
+      "text": "Um homem branco numa van"
+    },
+    {
+      "id": 387,
+      "text": "Gravidez na adolescência"
+    },
+    {
+      "id": 388,
+      "text": "Um mongolóide robusto"
+    },
+    {
+      "id": 389,
+      "text": "Nazistas"
+    },
+    {
+      "id": 390,
+      "text": "Privilégio branco"
+    },
+    {
+      "id": 391,
+      "text": "Uma ereção que dura mais de quatro horas"
+    },
+    {
+      "id": 392,
+      "text": "Uma festa de aniversario desapontadora"
+    },
+    {
+      "id": 393,
+      "text": "Puberdade"
+    },
+    {
+      "id": 394,
+      "text": "Dois anões cagando num balde"
+    },
+    {
+      "id": 395,
+      "text": "Deveres de esposa"
+    },
+    {
+      "id": 396,
+      "text": "O fruto proibido"
+    },
+    {
+      "id": 397,
+      "text": "Raul Gil alisando a própria barriga até dormir"
+    },
+    {
+      "id": 398,
+      "text": "Tensão sexual"
+    },
+    {
+      "id": 399,
+      "text": "A separação do Calypso"
+    },
+    {
+      "id": 400,
+      "text": "Um antílope com gases"
+    },
+    {
+      "id": 401,
+      "text": "Aquelas vezes que voce fica com areia na sua vagina"
+    },
+    {
+      "id": 402,
+      "text": "Um louco que vive numa caixa e sequestra mulheres"
+    },
+    {
+      "id": 403,
+      "text": "Tartarugas de assalto com bafo ácido biologicamente modificadas"
+    },
+    {
+      "id": 404,
+      "text": "O fim dos dias"
+    },
+    {
+      "id": 405,
+      "text": "Estrelas pornô"
+    },
+    {
+      "id": 406,
+      "text": "Um feto"
+    },
+    {
+      "id": 407,
+      "text": "Obesidade"
+    },
+    {
+      "id": 408,
+      "text": "Quando voce peida e um pouquinho sai"
+    },
+    {
+      "id": 409,
+      "text": "Oompa-Loompas"
+    },
+    {
+      "id": 410,
+      "text": "BATMAN!!!"
+    },
+    {
+      "id": 411,
+      "text": "Gente negra"
+    },
+    {
+      "id": 412,
+      "text": "A luz de um bilhão de sóis"
+    },
+    {
+      "id": 413,
+      "text": "Gente gostosa"
+    },
+    {
+      "id": 414,
+      "text": "Vovó"
+    },
+    {
+      "id": 415,
+      "text": "Sacrifício de uma virgem"
+    },
+    {
+      "id": 416,
+      "text": "Trilha de Lágrimas"
+    },
+    {
+      "id": 417,
+      "text": "Fome"
+    },
+    {
+      "id": 418,
+      "text": "Pintura a dedo"
+    },
+    {
+      "id": 419,
+      "text": "O milagre do nascimento"
+    },
+    {
+      "id": 420,
+      "text": "Cabras comendo latas"
+    },
+    {
+      "id": 421,
+      "text": "Um macaco fumando"
+    },
+    {
+      "id": 422,
+      "text": "Cura pela fé"
+    },
+    {
+      "id": 423,
+      "text": "Sexo menstrual"
+    },
+    {
+      "id": 424,
+      "text": "Bebês mortos"
+    },
+    {
+      "id": 425,
+      "text": "Evangélicos ultraconservadores"
+    },
+    {
+      "id": 426,
+      "text": "Impotência"
+    },
+    {
+      "id": 427,
+      "text": "Concursos de beleza infantis"
+    },
+    {
+      "id": 428,
+      "text": "Centauros"
+    },
+    {
+      "id": 429,
+      "text": "Desodorante AXE"
+    },
+    {
+      "id": 430,
+      "text": "Wesley Safadão"
+    },
+    {
+      "id": 431,
+      "text": "O direito a voto feminino"
+    },
+    {
+      "id": 432,
+      "text": "Crianças com coleiras"
+    },
+    {
+      "id": 433,
+      "text": "Pornografia de Harry Potter"
+    },
+    {
+      "id": 434,
+      "text": "A dança da fada da ameixa doce"
+    },
+    {
+      "id": 435,
+      "text": "O dedo perdido do Lula"
+    },
+    {
+      "id": 436,
+      "text": "Arremesso de anões"
+    },
+    {
+      "id": 437,
+      "text": "Pessoas de exatas"
+    },
+    {
+      "id": 438,
+      "text": "Almoço"
+    },
+    {
+      "id": 439,
+      "text": "Mulheres em comerciais de iogurte"
+    },
+    {
+      "id": 440,
+      "text": "Fernandinho Beira-Mar"
+    },
+    {
+      "id": 441,
+      "text": "Coxas poderosas"
+    },
+    {
+      "id": 442,
+      "text": "O Dollynho, bem atrás de você"
+    },
+    {
+      "id": 443,
+      "text": "Ferimentos de facadas multiplas"
+    },
+    {
+      "id": 444,
+      "text": "Melhorias ciberneticas"
+    },
+    {
+      "id": 445,
+      "text": "Servidão"
+    },
+    {
+      "id": 446,
+      "text": "Outro maldito filme de vampiro"
+    },
+    {
+      "id": 447,
+      "text": "A Ana Maria Braga dançando Ragatanga de biquini fio-dental de estampa de oncinha"
+    },
+    {
+      "id": 448,
+      "text": "Uma grande comoção por motivo nenhum"
+    },
+    {
+      "id": 449,
+      "text": "Um pouquinho de mijo"
+    },
+    {
+      "id": 450,
+      "text": "A agitação"
+    },
+    {
+      "id": 451,
+      "text": "Fantasmas"
+    },
+    {
+      "id": 452,
+      "text": "Bananas de Pijamas"
+    },
+    {
+      "id": 453,
+      "text": "Escuta ativa"
+    },
+    {
+      "id": 454,
+      "text": "Vômito de ar"
+    },
+    {
+      "id": 455,
+      "text": "Pilotos kamikaze"
+    },
+    {
+      "id": 456,
+      "text": "A Força"
+    },
+    {
+      "id": 457,
+      "text": "Vibradores azuis"
+    },
+    {
+      "id": 458,
+      "text": "Criança Esperança"
+    },
+    {
+      "id": 459,
+      "text": "Pessoas de Humanas"
+    },
+    {
+      "id": 460,
+      "text": "Aplausos ao sol"
+    },
+    {
+      "id": 461,
+      "text": "Heterossexuais"
+    },
+    {
+      "id": 462,
+      "text": "Rebuceteio"
+    },
+    {
+      "id": 463,
+      "text": "Péssimas escolhas de vida"
+    },
+    {
+      "id": 464,
+      "text": "Pessoas pobres"
+    },
+    {
+      "id": 465,
+      "text": "Pessoas ricas"
+    },
+    {
+      "id": 466,
+      "text": "Minha vagina"
+    },
+    {
+      "id": 467,
+      "text": "Personagens femininas fortes"
+    },
+    {
+      "id": 468,
+      "text": "Sexo consensual"
+    },
+    {
+      "id": 469,
+      "text": "Um balde de cabeças de peixes"
+    },
+    {
+      "id": 470,
+      "text": "Um coração de uma criança"
+    },
+    {
+      "id": 471,
+      "text": "A vida de um pirata"
+    },
+    {
+      "id": 472,
+      "text": "Crucificação"
+    },
+    {
+      "id": 473,
+      "text": "Cinco litros de cachaça"
+    },
+    {
+      "id": 474,
+      "text": "O ursinho Pooh possuído pelo demônio"
+    },
+    {
+      "id": 475,
+      "text": "Um bangalô na praia"
+    },
+    {
+      "id": 476,
+      "text": "Uma capivara bebê usando pantufinhas e pijaminha azul"
+    },
+    {
+      "id": 477,
+      "text": "Empregos"
+    },
+    {
+      "id": 478,
+      "text": "400 anos de atrocidades coloniais"
+    },
+    {
+      "id": 479,
+      "text": "Pessoas indígenas"
+    },
+    {
+      "id": 480,
+      "text": "Uma bela xícara de café"
+    },
+    {
+      "id": 481,
+      "text": "Uma tribo de mulheres guerreiras"
+    },
+    {
+      "id": 482,
+      "text": "Rolezeira"
+    },
+    {
+      "id": 483,
+      "text": "Memes"
+    },
+    {
+      "id": 484,
+      "text": "Trenzinho Carreta Furacão"
+    },
+    {
+      "id": 485,
+      "text": "Silvio Santos jogando dez aviõezinhos de 100 reais"
+    },
+    {
+      "id": 486,
+      "text": "Uma manchete de notícia do Ego"
+    },
+    {
+      "id": 487,
+      "text": "As bailarinas do Faustão"
+    },
+    {
+      "id": 488,
+      "text": "A Maisa tirando a peruca do Silvio Santos"
+    },
+    {
+      "id": 489,
+      "text": "A Glória Maria doidona na Jamaica"
+    },
+    {
+      "id": 490,
+      "text": "Apropriação cultural"
+    },
+    {
+      "id": 491,
+      "text": "Um cachorro quente de rua com recheio de procedência duvidável"
+    }
+  ],
+  "blackCards": [
+    {
+      "id": 1,
+      "text": "___ ? Tem um aplicativo para isso.",
+      "rawText": "___ ? Tem um aplicativo para isso.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 2,
+      "text": "Por que não consigo dormir à noite?",
+      "rawText": "Por que não consigo dormir à noite?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 3,
+      "text": "Que cheiro é esse?",
+      "rawText": "Que cheiro é esse?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 4,
+      "text": "Eu tenho 99 problemas mas ___ não é um.",
+      "rawText": "Eu tenho 99 problemas mas ___ não é um.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 5,
+      "text": "Quem roubou biscoitos do pote de biscoitos?",
+      "rawText": "Quem roubou biscoitos do pote de biscoitos?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 6,
+      "text": "Qual o próximo brinde do McLanche Feliz?",
+      "rawText": "Qual o próximo brinde do McLanche Feliz?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 7,
+      "text": "Antropólogos recentemente descobriram uma antiga tribo que venerava ___",
+      "rawText": "Antropólogos recentemente descobriram uma antiga tribo que venerava ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 8,
+      "text": "É uma pena que crianças hoje em dia estejam todas se envolvendo com ___",
+      "rawText": "É uma pena que crianças hoje em dia estejam todas se envolvendo com ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 9,
+      "text": "Durante o Período Marrom de Picasso ele pintou centenas de quadros de ___",
+      "rawText": "Durante o Período Marrom de Picasso ele pintou centenas de quadros de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 10,
+      "text": "A medicina alternativa está adotando os poderes curativos de ___",
+      "rawText": "A medicina alternativa está adotando os poderes curativos de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 11,
+      "text": "O Óscar de ___ vai para ___",
+      "rawText": "O Óscar de ___ vai para ___ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 12,
+      "text": "Passarinho, que som é esse?",
+      "rawText": "Passarinho, que som é esse?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 13,
+      "text": "O que fez meu último relacionamento acabar?",
+      "rawText": "O que fez meu último relacionamento acabar?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 14,
+      "text": "A nova temporada de A Fazenda apresenta 17 celebridades falidas convivendo com ___",
+      "rawText": "A nova temporada de A Fazenda apresenta 17 celebridades falidas convivendo com ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 15,
+      "text": "Eu bebo para esquecer ___",
+      "rawText": "Eu bebo para esquecer ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 16,
+      "text": "Desculpe, professor, não consegui terminar minha tarefa de casa por causa de___",
+      "rawText": "Desculpe, professor, não consegui terminar minha tarefa de casa por causa de___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 17,
+      "text": "Qual o prazer secreto do Batman?",
+      "rawText": "Qual o prazer secreto do Batman?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 18,
+      "text": "É assim que o mundo acaba: não com uma explosão, mas com ___",
+      "rawText": "É assim que o mundo acaba: não com uma explosão, mas com ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 19,
+      "text": "Qual o melhor amigo das garotas?",
+      "rawText": "Qual o melhor amigo das garotas?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 20,
+      "text": "As novas regras de seguranca agora proíbem ___ em aviões.",
+      "rawText": "As novas regras de seguranca agora proíbem ___ em aviões.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 21,
+      "text": "___. É assim que eu morro.",
+      "rawText": "___. É assim que eu morro.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 22,
+      "text": "Para meu próximo truque, eu vou tirar ___ de ___",
+      "rawText": "Para meu próximo truque, eu vou tirar ___ de ___ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 23,
+      "text": "No novo filme da Xuxa, ela precisa lidar com ___ pela primeira vez",
+      "rawText": "No novo filme da Xuxa, ela precisa lidar com ___ pela primeira vez",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 24,
+      "text": "___ é uma porta de entrada para ___",
+      "rawText": "___ é uma porta de entrada para ___ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 25,
+      "text": "O que Aécio Neves prefere?",
+      "rawText": "O que Aécio Neves prefere?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 26,
+      "text": "Queria não ter perdido o manual de ___.",
+      "rawText": "Queria não ter perdido o manual de ___.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 27,
+      "text": "Ao invés de carvão, agora o Papai Noel dá ___ para crianças mal comportadas.",
+      "rawText": "Ao invés de carvão, agora o Papai Noel dá ___ para crianças mal comportadas.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 28,
+      "text": "O que é o mais emo?",
+      "rawText": "O que é o mais emo?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 29,
+      "text": "Em 1000 anos, quando dinheiro impresso for uma memória distante, ___ vai ser a moeda de troca.",
+      "rawText": "Em 1000 anos, quando dinheiro impresso for uma memória distante, ___ vai ser a moeda de troca.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 30,
+      "text": "Qual a próxima dupla de super-herói/ajudante?",
+      "rawText": "Qual a próxima dupla de super-herói/ajudante? (2)",
+      "pick": 2,
+      "blanksCount": 0,
+      "explicitPick": 2
+    },
+    {
+      "id": 31,
+      "text": "No novo episódio de Black Mirror, Wagner Moura descobre que ___ era, na verdade, ___ o tempo todo.",
+      "rawText": "No novo episódio de Black Mirror, Wagner Moura descobre que ___ era, na verdade, ___ o tempo todo. (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 32,
+      "text": "Um jantar romântico à luz de velas estaria incompleto sem ___.",
+      "rawText": "Um jantar romântico à luz de velas estaria incompleto sem ___.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 33,
+      "text": "____ . Aposto que você não consegue ficar sem repetir!",
+      "rawText": "____ . Aposto que você não consegue ficar sem repetir!",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 34,
+      "text": "Gente branca gosta de ___.",
+      "rawText": "Gente branca gosta de ___.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 35,
+      "text": "____. Toca aqui, mano!",
+      "rawText": "____. Toca aqui, mano!",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 36,
+      "text": "O próximo livro de J.K Rowling : Harry Potter e ___.",
+      "rawText": "O próximo livro de J.K Rowling : Harry Potter e ___.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 37,
+      "text": "A TOPTHERM TRAZ PRA VOCÊ O LEGÍTIMO ___.",
+      "rawText": "A TOPTHERM TRAZ PRA VOCÊ O LEGÍTIMO ___.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 38,
+      "text": "Num mundo devastado por ___, nosso único consolo é ___.",
+      "rawText": "Num mundo devastado por ___, nosso único consolo é ___. (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 39,
+      "text": "Guerra! Para que serve?",
+      "rawText": "Guerra! Para que serve?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 40,
+      "text": "Durante o sexo eu gosto de pensar em ___.",
+      "rawText": "Durante o sexo eu gosto de pensar em ___.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 41,
+      "text": "O que os meus pais escondem de mim?",
+      "rawText": "O que os meus pais escondem de mim?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 42,
+      "text": "O que sempre fará você conseguir uma transa?",
+      "rawText": "O que sempre fará você conseguir uma transa?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 43,
+      "text": "Quando eu estiver na prisão, eu vou contrabandear ___ .",
+      "rawText": "Quando eu estiver na prisão, eu vou contrabandear ___ .",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 44,
+      "text": "O que eu trouxe do Paraguai?",
+      "rawText": "O que eu trouxe do Paraguai?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 45,
+      "text": "O que você não gostaria de encontrar na sua comida chinesa ?",
+      "rawText": "O que você não gostaria de encontrar na sua comida chinesa ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 46,
+      "text": "O que eu vou trazer do passado para provar que sou um feiticeiro poderoso ?",
+      "rawText": "O que eu vou trazer do passado para provar que sou um feiticeiro poderoso ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 47,
+      "text": "Como estou mantendo meu status de relacionamento ?",
+      "rawText": "Como estou mantendo meu status de relacionamento ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 48,
+      "text": "____. É uma cilada, Bino!",
+      "rawText": "____. É uma cilada, Bino!",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 49,
+      "text": "Nos teatros mais próximos, ___: O musical.",
+      "rawText": "Nos teatros mais próximos, ___: O musical.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 50,
+      "text": "Enquanto os EUA e a URSS faziam a corrida espacial, o governo brasileiro gastou milhões de reais pesquisando ___",
+      "rawText": "Enquanto os EUA e a URSS faziam a corrida espacial, o governo brasileiro gastou milhões de reais pesquisando ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 51,
+      "text": "Após os desastres de Mariana, Claudia Raia comprou ___ para o povo mineiro.",
+      "rawText": "Após os desastres de Mariana, Claudia Raia comprou ___ para o povo mineiro.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 52,
+      "text": "Depois de um fiasco no setor de relacoes publicas, o Carrefour nao oferta mais ___",
+      "rawText": "Depois de um fiasco no setor de relacoes publicas, o Carrefour nao oferta mais ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 53,
+      "text": "Em sua nova comédia de verão, Renato Aragão é ___ preso no corpo de ___",
+      "rawText": "Em sua nova comédia de verão, Renato Aragão é ___ preso no corpo de ___ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 54,
+      "text": "Os rumores dizem que o prato predileto de Dilma Rousseff é ___ cheio de ___",
+      "rawText": "Os rumores dizem que o prato predileto de Dilma Rousseff é ___ cheio de ___ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 55,
+      "text": "Mas antes de matá-lo, Sr. Bond, preciso te mostrar ___",
+      "rawText": "Mas antes de matá-lo, Sr. Bond, preciso te mostrar ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 56,
+      "text": "O que me dá gases incontroláveis?",
+      "rawText": "O que me dá gases incontroláveis?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 57,
+      "text": "Como as pessoas idosas cheiram?",
+      "rawText": "Como as pessoas idosas cheiram?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 58,
+      "text": "A viagem de campo foi arruinada por ___",
+      "rawText": "A viagem de campo foi arruinada por ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 59,
+      "text": "Quando o Faraó estava imóvel, Moisés chamou pela Praga de ___",
+      "rawText": "Quando o Faraó estava imóvel, Moisés chamou pela Praga de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 60,
+      "text": "Qual o meu poder secreto ?",
+      "rawText": "Qual o meu poder secreto ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 61,
+      "text": "O que tem em toneladas no paraíso ?",
+      "rawText": "O que tem em toneladas no paraíso ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 62,
+      "text": "O que a vovó acharia perturbador, porém estranhamente encantador ?",
+      "rawText": "O que a vovó acharia perturbador, porém estranhamente encantador ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 63,
+      "text": "Eu nunca entendi verdadeiramente ___ até encontrar ___",
+      "rawText": "Eu nunca entendi verdadeiramente ___ até encontrar ___ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 64,
+      "text": "A Polícia Militar comecou a enviar ___ para as crianças em Mãe Luiza.",
+      "rawText": "A Polícia Militar comecou a enviar ___ para as crianças em Mãe Luiza.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 65,
+      "text": "O que ajuda o Temer a relaxar ?",
+      "rawText": "O que ajuda o Temer a relaxar ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 66,
+      "text": "O que o Leo Stronda comeu no jantar ?",
+      "rawText": "O que o Leo Stronda comeu no jantar ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 67,
+      "text": "___ : Bom até a última gota.",
+      "rawText": "___ : Bom até a última gota.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 68,
+      "text": "Por que eu estou preguento ?",
+      "rawText": "Por que eu estou preguento ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 69,
+      "text": "O que fica melhor com a idade ?",
+      "rawText": "O que fica melhor com a idade ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 70,
+      "text": "____ : Testado por crianças, aprovado pelas mães.",
+      "rawText": "____ : Testado por crianças, aprovado pelas mães.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 71,
+      "text": "O que é o mais idiota ?",
+      "rawText": "O que é o mais idiota ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 72,
+      "text": "O que o Prouni esta usando para incentivar estudantes do interior a tentar a universidade ?",
+      "rawText": "O que o Prouni esta usando para incentivar estudantes do interior a tentar a universidade ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 73,
+      "text": "Estudos mostram que ratos de laboratório atravessam labirintos 50% mais rápido depois de expostos a ___",
+      "rawText": "Estudos mostram que ratos de laboratório atravessam labirintos 50% mais rápido depois de expostos a ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 74,
+      "text": "A vida era difícil para os homens das cavernas antes de ___",
+      "rawText": "A vida era difícil para os homens das cavernas antes de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 75,
+      "text": "Escreva um Haikai",
+      "rawText": "Escreva um Haikai (3)",
+      "pick": 3,
+      "blanksCount": 0,
+      "explicitPick": 3
+    },
+    {
+      "id": 76,
+      "text": "Eu não sei que armas vao usar na terceira guerra mundial, mas na quarta usarão ___",
+      "rawText": "Eu não sei que armas vao usar na terceira guerra mundial, mas na quarta usarão ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 77,
+      "text": "Por que eu estou todo dolorido ?",
+      "rawText": "Por que eu estou todo dolorido ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 78,
+      "text": "O que eu estou emprestando ?",
+      "rawText": "O que eu estou emprestando ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 79,
+      "text": "Nos ultimos momentos de Raul Seixas, ele pensou sobre ___",
+      "rawText": "Nos ultimos momentos de Raul Seixas, ele pensou sobre ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 80,
+      "text": "Numa tentativa de obter maior audiência, o Museu Câmara Cascudo oferecerá uma exibição interativa de ___",
+      "rawText": "Numa tentativa de obter maior audiência, o Museu Câmara Cascudo oferecerá uma exibição interativa de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 81,
+      "text": "Quando eu for presidente da república, vou criar o ministério de ___",
+      "rawText": "Quando eu for presidente da república, vou criar o ministério de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 82,
+      "text": "A sessão da tarde apresenta: ___, uma história de ___",
+      "rawText": "A sessão da tarde apresenta: ___, uma história de ___ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 83,
+      "text": "Quando eu for um bilionário, vou erguer uma estátua de 20 metros em homenagem a ___",
+      "rawText": "Quando eu for um bilionário, vou erguer uma estátua de 20 metros em homenagem a ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 84,
+      "text": "Quando eu estava viajando com LSD, ___ virou ____",
+      "rawText": "Quando eu estava viajando com LSD, ___ virou ____ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 85,
+      "text": "Verdade, eu matei ____ . Como? ____",
+      "rawText": "Verdade, eu matei ____ . Como? ____ (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 86,
+      "text": "Qual o meu anti-drogas ?",
+      "rawText": "Qual o meu anti-drogas ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 87,
+      "text": "___ + ___ = ___",
+      "rawText": "___ + ___ = ___",
+      "pick": 3,
+      "blanksCount": 3,
+      "explicitPick": 0
+    },
+    {
+      "id": 88,
+      "text": "O que nunca falha em animar a festa ?",
+      "rawText": "O que nunca falha em animar a festa ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 89,
+      "text": "Qual a nova dieta do momento ?",
+      "rawText": "Qual a nova dieta do momento ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 90,
+      "text": "A FIFA baniu ___ por dar aos jogadores uma enorme vantagem",
+      "rawText": "A FIFA baniu ___ por dar aos jogadores uma enorme vantagem",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 91,
+      "text": "Como eu perdi minha virgindade ?",
+      "rawText": "Como eu perdi minha virgindade ?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 92,
+      "text": "Talvez ela tenha nascido assim, talvez seja ___",
+      "rawText": "Talvez ela tenha nascido assim, talvez seja ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 93,
+      "text": "Eu consigo seguir em frente com uma pequena ajuda de ___",
+      "rawText": "Eu consigo seguir em frente com uma pequena ajuda de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 94,
+      "text": "Querida tia Tereza, estou tendo um problema com ___ e gostaria da sua ajuda.",
+      "rawText": "Querida tia Tereza, estou tendo um problema com ___ e gostaria da sua ajuda.",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 95,
+      "text": "Mais uma noite chega, e com ela ___",
+      "rawText": "Mais uma noite chega, e com ela ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 96,
+      "text": "Disseram que nós éramos loucos, disseram que não poderíamos colocar ___ dentro de ___. Eles estavam errados.",
+      "rawText": "Disseram que nós éramos loucos, disseram que não poderíamos colocar ___ dentro de ___. Eles estavam errados.",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 0
+    },
+    {
+      "id": 97,
+      "text": "Papai, por que a mamãe está chorando?",
+      "rawText": "Papai, por que a mamãe está chorando?",
+      "pick": 1,
+      "blanksCount": 0,
+      "explicitPick": 0
+    },
+    {
+      "id": 98,
+      "text": "Aqui também é ___",
+      "rawText": "Aqui também é ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 99,
+      "text": "Olha como ela é ___, dá ___ pra ela !",
+      "rawText": "Olha como ela é ___, dá ___ pra ela ! (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 100,
+      "text": "O tema para o próximo Quem Sabe Canta, do Raul Gil, será \"Nós somos ___\"",
+      "rawText": "O tema para o próximo Quem Sabe Canta, do Raul Gil, será \"Nós somos ___\"",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 101,
+      "text": "Ninguém espera a revolução comunista, nossas principais armas são medo, surpresa e ___",
+      "rawText": "Ninguém espera a revolução comunista, nossas principais armas são medo, surpresa e ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 102,
+      "text": "A TAM pede desculpas pelo atraso dos voos devido a ___",
+      "rawText": "A TAM pede desculpas pelo atraso dos voos devido a ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 103,
+      "text": "A seguir, em Esporte Espetacular, o Campeonato Mundial de ___",
+      "rawText": "A seguir, em Esporte Espetacular, o Campeonato Mundial de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 104,
+      "text": "Hoje, em Casos de Família: \"Socorro! Meu filho é ___ !\"",
+      "rawText": "Hoje, em Casos de Família: \"Socorro! Meu filho é ___ !\"",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 105,
+      "text": "A vida dos povos indígenas no Brasil mudou para sempre quando o homem branco os introduziu a ___",
+      "rawText": "A vida dos povos indígenas no Brasil mudou para sempre quando o homem branco os introduziu a ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 106,
+      "text": "Dica divertida! Quando o seu homem pedir para você fazer um oral, surpreenda-o com ___, no lugar",
+      "rawText": "Dica divertida! Quando o seu homem pedir para você fazer um oral, surpreenda-o com ___, no lugar",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 107,
+      "text": "Hoje, na Sessão da Tarde: \"___, a história de ___\"",
+      "rawText": "Hoje, na Sessão da Tarde: \"___, a história de ___\" (2)",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 2
+    },
+    {
+      "id": 108,
+      "text": "___. É por isso que as mães vão para o Acre",
+      "rawText": "___. É por isso que as mães vão para o Acre",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 109,
+      "text": "Eu não acredito que ___ inventou ___",
+      "rawText": "Eu não acredito que ___ inventou ___",
+      "pick": 2,
+      "blanksCount": 2,
+      "explicitPick": 0
+    },
+    {
+      "id": 110,
+      "text": "A nova sensação do Funk é o Mc ___",
+      "rawText": "A nova sensação do Funk é o Mc ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 111,
+      "text": "O Yudi girou a roleta do Bom Dia e Cia, e ao invés de vir um play station, veio ___",
+      "rawText": "O Yudi girou a roleta do Bom Dia e Cia, e ao invés de vir um play station, veio ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 112,
+      "text": "Beijinho no ombro pra ___ passar longe",
+      "rawText": "Beijinho no ombro pra ___ passar longe",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 113,
+      "text": "Tu tá metida com ___, Morena ?",
+      "rawText": "Tu tá metida com ___, Morena ?",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 114,
+      "text": "Após a Época do Café, o Brasil investiu na exportação de ___",
+      "rawText": "Após a Época do Café, o Brasil investiu na exportação de ___",
+      "pick": 1,
+      "blanksCount": 1,
+      "explicitPick": 0
+    },
+    {
+      "id": 115,
+      "text": "Casar, foder, matar.",
+      "rawText": "Casar, foder, matar. (3)",
+      "pick": 3,
+      "blanksCount": 0,
+      "explicitPick": 3
+    }
+  ]
+}
